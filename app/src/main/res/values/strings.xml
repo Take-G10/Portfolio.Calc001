@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">電卓</string>
+    <string name="bt_zero">0</string>
+    <string name="bt_one">1</string>
+    <string name="bt_two">2</string>
+    <string name="bt_three">3</string>
+    <string name="bt_four">4</string>
+    <string name="bt_five">5</string>
+    <string name="bt_six">6</string>
+    <string name="bt_seven">7</string>
+    <string name="bt_eight">8</string>
+    <string name="bt_nine">9</string>
+    <string name="bt_add">+</string>
+    <string name="bt_sub">-</string>
+    <string name="bt_multi">×</string>
+    <string name="bt_div">÷</string>
+    <string name="bt_ac">AC</string>
+    <string name="bt_equal">=</string>
+    <string name="tv_label"></string>
+    <string name="tv_result"></string>
+
+</resources>
