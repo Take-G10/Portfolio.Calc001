@@ -14,6 +14,7 @@
 
 * Android Studio Arctic Fox 2020.3.1 Patch 1
 * Android version 5.1 Lollipop 以降
+* Java
 
 # Usage
 * Android StudioよりAndroid端末へダウンロードもしくはエミュレーターにて使用
